@@ -1,7 +1,7 @@
 # VirologyByTheNumbers
-This is a series of code, input data, and output files that accompany the manuscript "Viral Genomes by the Numbers: A Comprehensive Quantitative Exploration of Thousands of Viruses" by Gita Mahmoudabadi and Rob Phillips. If using these scripts or data, please cite our manuscript. 
+**This is a series of code, input data, and output files that accompany the manuscript "Viral Genomes by the Numbers: A Comprehensive Quantitative Exploration of Thousands of Viruses" by Gita Mahmoudabadi and Rob Phillips. If using these scripts or data, please cite our manuscript.**
 
-All code is written in Python (using Jupyter notebooks). Below you can find a description of each notebook. These notebooks all share in common the very first block of code (and its slight variations), wherein rawdata is read from all_rpt, all_ptt, and all_faa directories, and relevant genomic parameters for each virus, such as genome length, number of protein-coding genes, among others, are stored in lengthData. The list of Jupyter notebooks and their function is shown below: 
+All code is written in Python (Jupyter notebooks). Below you can find a description of each notebook. These notebooks all share in common the very first block of code (and its slight variations), wherein rawdata is read from all_rpt, all_ptt, and all_faa directories, and relevant genomic parameters for each virus, such as genome length, number of protein-coding genes, among other parameters, are stored in lengthData. The list of Jupyter notebooks and their function is shown below: 
 
   * virusHostHistogramsFV.ipynb  (used to create Figure 2)
   * viromePieChartsFV.ipynb  (used to create Figure 2)
