@@ -14,7 +14,7 @@ All code is written in Python (Jupyter notebooks). Below you can find a descript
 
 Most scripts will require the following dependencies (Note, using Anaconda, the installation can be as easy as running a command such as: "conda install seaborn"):
   * Python 3.4+
-  * ete-toolkit (3.0) 
+  * ete-toolkit (3.0) (pip install https://github.com/jhcepas/ete/archive/3.0.zip)
   * scipy 
   * pandas 
   * Bio
@@ -43,7 +43,7 @@ The following should be in the working directory (i.e. the directory where the s
  * attSitePosDetail1	
 
 Output files that are included:
-  * hypoBactProtCharacterized.txt
+  * hypoBactProtCharacterized.txt 
   * hypoPhageProtCharacterized-v2.txt
   * textFile-1-allViruses.txt
 
