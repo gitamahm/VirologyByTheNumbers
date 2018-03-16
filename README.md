@@ -28,9 +28,9 @@ Most scripts will require the following dependencies (Note, using Anaconda, the 
   * functools
 
 The following should be in the working directory (i.e. the directory where the scripts are): 
- * all_rpt
- * all_ptt
- * all_faa
+ * all_rpt (provided as zipped directory, make sure to unzip the directory)
+ * all_ptt (provided as zipped directory, make sure to unzip the directory)
+ * all_faa (provided as zipped directory, make sure to unzip the directory)
  * folderToHostTaxid.txt
  * blastBacterialFinalv2
  * phageProteins
