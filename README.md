@@ -43,9 +43,10 @@ The following should be in the working directory (i.e. the directory where the s
  * attSitePosDetail1	
 
 Output files that are included:
-  * hypoBactProtCharacterized.txt 
-  * hypoPhageProtCharacterized-v2.txt
-  * textFile-1-allViruses.txt
+  * textFile-1.txt 
+  * textFile-2.txt
+  * textFile-3.txt
+  * textFile-4.txt
 
 
 			
